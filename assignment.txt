@@ -1,0 +1,35 @@
+1).what is software.? what is software engineering.?     
+
+Ans...
+
+software is a set of intructions,data or program used to operate computers and execute specific task.
+
+software engineering is the branch of computer science that deals with the design,development,testing,and maintenance of software applications.
+
+2).Explain types of software.?
+
+Ans...
+
+1).application software.    = vlc,ms office......
+2).system software.           = calculated,notespade.........
+3).driver software.              = audio,video.........
+4).middleware software.   = application,middleware work.......
+5).programming software.= dev,c++......
+
+3).what is SDLC ? expain each phase of SDLC.?
+
+Ans....
+
+SDLC="software devlopment life cycle"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+6 phase :
+
+1).requirments gathering
+2).analysis
+3).designing
+4).coding/implementation
+5).testing
+6).maintenaance
+
+
+     
